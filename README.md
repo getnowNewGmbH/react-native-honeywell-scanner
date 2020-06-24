@@ -2,7 +2,7 @@
 
 ## Changes to the original forked repo
 
-To support EAN13, code in the `android/src/main/java/nl/volst/HoneywellScanner/HoneywellScannerModule.java` file has been updated to send 'check digit'.
+To support EAN8/EAN13, code in the `android/src/main/java/nl/volst/HoneywellScanner/HoneywellScannerModule.java` file has been updated to send 'check digit'.
 
 ## Info
 
